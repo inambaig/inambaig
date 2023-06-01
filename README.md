@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inambaig
 - 👀 I’m interested in Artificial Intelligence, Blockchain and Backend development.
-- 🌱 I’m currently learning and working in Ruby on Rails and Deep Learning models. 
+- 🌱 I’m currently working on Ruby on Rails and Deep Learning models. 
 - 📫 I can be reached at inambaig776@gmail.com.
 
 <!---
