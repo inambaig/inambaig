@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @inambaig
-- 👀 I’m interested in Artificial Intelligence, Blockchain and Backend development.
-- 🌱 I’m currently working on Ruby on Rails and Deep Learning models. 
-- 📫 I can be reached at inambaig776@gmail.com.
-
-<!---
-inambaig/inambaig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--- - 💞️ I’m looking to collaborate on ... ---> 
+@⁨iur.baig⁩ Hi, I’m @inambaig
+👀 I specialize in Full Stack Development with a focus on Ruby on Rails, Node.js, and React/Next.js.
+🌱 Currently, I’m building advanced platforms working on scalable backend systems using Express and MERN stack.
+🔧 With strong experience in both backend and frontend technologies, I excel in delivering seamless web applications and complex data-driven solutions.
